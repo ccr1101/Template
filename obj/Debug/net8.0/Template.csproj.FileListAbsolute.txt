@@ -33,3 +33,4 @@ C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\refint\Temp
 C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\Template.pdb
 C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\Template.genruntimeconfig.cache
 C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\ref\Template.dll
+C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\Template.sourcelink.json

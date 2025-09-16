@@ -1,0 +1,66 @@
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Visual Studio files
+.vs/
+.vscode/
+.idea/
+*.dbmdl
+
+## Rider
+.idea/
+*.sln.iml
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+## MSBuild logs
+*.log
+*.binlog
+
+## Test results
+TestResult.xml
+[Tt]est[Rr]esult*/
+buildlog.*
+
+## Others
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.tgz
+*.tar.gz
+
+## Node.js (if using frontend assets)
+node_modules/
+package-lock.json
+yarn.lock
+
+## Secrets (optional)
+appsettings.Development.json
+secrets.json
