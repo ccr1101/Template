@@ -64,3 +64,5 @@ yarn.lock
 ## Secrets (optional)
 appsettings.Development.json
 secrets.json
+
+.env

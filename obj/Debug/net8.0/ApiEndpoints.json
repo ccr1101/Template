@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Template.Controllers.UsersController",
+    "Method": "GetUser",
+    "RelativePath": "api/Users/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Template.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|c:\\users\\shishirchapagain-cod\\source\\repos\\template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|c:\\users\\shishirchapagain-cod\\source\\repos\\template\\middlewares\\clerkauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|solutionrelative:middlewares\\clerkauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|c:\\users\\shishirchapagain-cod\\source\\repos\\template\\options\\clerkoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|solutionrelative:options\\clerkoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|c:\\users\\shishirchapagain-cod\\source\\repos\\template\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|c:\\users\\shishirchapagain-cod\\source\\repos\\template\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|c:\\users\\shishirchapagain-cod\\source\\repos\\template\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|c:\\users\\shishirchapagain-cod\\source\\repos\\template\\services\\clerkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0DB9C5-2FCB-429D-A23F-8A5A126E9F18}|Template.csproj|solutionrelative:services\\clerkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T09:29:10.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T09:27:15.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClerkOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\Options\\ClerkOptions.cs",
+              "RelativeDocumentMoniker": "Options\\ClerkOptions.cs",
+              "ToolTip": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\Options\\ClerkOptions.cs",
+              "RelativeToolTip": "Options\\ClerkOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:49:38.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-16T10:12:47.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClerkAuthMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\Middlewares\\ClerkAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\ClerkAuthMiddleware.cs",
+              "ToolTip": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\Middlewares\\ClerkAuthMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\ClerkAuthMiddleware.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAqwHIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T08:01:45.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:58:31.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClerkService.cs",
+              "DocumentMoniker": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\Services\\ClerkService.cs",
+              "RelativeDocumentMoniker": "Services\\ClerkService.cs",
+              "ToolTip": "C:\\Users\\ShishirChapagain-Cod\\source\\repos\\Template\\Services\\ClerkService.cs",
+              "RelativeToolTip": "Services\\ClerkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:50:24.08Z",
+              "EditorCaption": ""
             }
           ]
         }
