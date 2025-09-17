@@ -26,7 +26,6 @@ C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\staticwebas
 C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\Template.csproj.Up2Date
 C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\Template.dll
 C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\refint\Template.dll
@@ -62,3 +61,4 @@ C:\Users\ShishirChapagain-Cod\source\repos\Template\bin\Debug\net8.0\Newtonsoft.
 C:\Users\ShishirChapagain-Cod\source\repos\Template\bin\Debug\net8.0\NodaTime.dll
 C:\Users\ShishirChapagain-Cod\source\repos\Template\bin\Debug\net8.0\Sprache.dll
 C:\Users\ShishirChapagain-Cod\source\repos\Template\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ShishirChapagain-Cod\source\repos\Template\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

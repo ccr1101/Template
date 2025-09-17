@@ -1,5 +1,55 @@
 [
   {
+    "ContainingType": "Template.Controllers.AuthTestController",
+    "Method": "Config",
+    "RelativePath": "api/AuthTest/config",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Template.Controllers.AuthTestController",
+    "Method": "GetCurrentUser",
+    "RelativePath": "api/AuthTest/current-user",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Template.Controllers.AuthTestController",
+    "Method": "Health",
+    "RelativePath": "api/AuthTest/health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Template.Controllers.AuthTestController",
+    "Method": "ProtectedEndpoint",
+    "RelativePath": "api/AuthTest/protected",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Template.Controllers.AuthTestController",
+    "Method": "PublicEndpoint",
+    "RelativePath": "api/AuthTest/public",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Template.Controllers.UsersController",
     "Method": "GetUser",
     "RelativePath": "api/Users/{userId}",
